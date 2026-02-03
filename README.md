@@ -13,5 +13,7 @@
 
   Add this `base: '/scanify/'` on `vite.config.ts`
 
+  Add this `"deploy": "gh-pages -d dist"` on `package.json`
+
   Run `npm run deploy` to start the development server.
   
